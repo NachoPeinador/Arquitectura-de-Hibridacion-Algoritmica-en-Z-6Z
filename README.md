@@ -107,7 +107,7 @@ Si utiliza este software o los hallazgos teóricos en su investigación, por fav
   version = {v1.0},
   doi = {10.5281/zenodo.XXXXXXX}
 }
-
+```
 ---
 
 ## 🚀 Apoya la Ciencia Independiente
