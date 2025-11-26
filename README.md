@@ -107,3 +107,19 @@ Si utiliza este software o los hallazgos teóricos en su investigación, por fav
   version = {v1.0},
   doi = {10.5281/zenodo.XXXXXXX}
 }
+
+---
+
+## 🚀 Apoya la Ciencia Independiente
+
+Este desarrollo es fruto de la investigación independiente. Si la arquitectura te resulta útil o inspiradora:
+
+⭐️ Dale una Estrella: Ayuda a visibilizar el repositorio.
+
+📢 Difunde: Comparte los resultados en redes con el hashtag #ModularPi.
+
+🤝 Colabora: Los PRs para optimizar la recombinación final o portar el código a C++/Rust son bienvenidos (bajo la misma licencia no comercial).
+
+"La simplicidad es la máxima sofisticación." — Leonardo da Vinci
+
+
