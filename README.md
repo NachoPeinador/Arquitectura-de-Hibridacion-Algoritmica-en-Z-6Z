@@ -118,7 +118,7 @@ Este desarrollo es fruto de la investigación independiente. Si la arquitectura 
 
 📢 Difunde: Comparte los resultados en redes con el hashtag #ModularPi.
 
-🤝 Colabora: Traducciones son bienvenidas (bajo la misma licencia no comercial).
+🤝 Colabora: Los PRs para optimizar la recombinación final o portar el código a C++/Rust son bienvenidos (bajo la misma licencia no comercial).
 
 "La simplicidad es la máxima sofisticación." — Leonardo da Vinci
 
