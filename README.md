@@ -102,16 +102,10 @@ Si utiliza este software o los hallazgos teóricos en su investigación, por fav
 ```
 ---
 
-## 🚀 Apoya la Ciencia Independiente
+## 🔬 Ciencia Independiente y Abierta
 
-Este desarrollo es fruto de la investigación independiente. Si la arquitectura te resulta útil o inspiradora:
+> *"La simplicidad es la máxima sofisticación."* > — **Leonardo da Vinci**
 
-⭐️ Dale una Estrella: Ayuda a visibilizar el repositorio.
-
-📢 Difunde: Comparte los resultados en redes con el hashtag #ModularPi.
-
-🤝 Colabora: Los PRs para optimizar la recombinación final o portar el código a C++/Rust son bienvenidos (bajo la misma licencia no comercial).
-
-"La simplicidad es la máxima sofisticación." — Leonardo da Vinci
+Este trabajo se realizó de manera completamente independiente, sin financiación institucional ni corporativa, gracias a personas que trabajan apasionadamente por el bien común.
 
 
