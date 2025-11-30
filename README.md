@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Platform](https://img.shields.io/badge/Platform-Google_Colab_%7C_Linux-orange.svg)](pi_modular_100m.ipynb)
 [![Status](https://img.shields.io/badge/Status-Validated_(10^8_Digits)-success.svg)]()
-[![DOI](https://img.shields.io/badge/DOI-Preprint_Pending-lightgrey)](https://doi.org/10.5281/zenodo.17768719)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17768719-blue)](https://doi.org/10.5281/zenodo.17768719)
 
 **Autor:** José Ignacio Peinador Sala  
 **Contacto:** [joseignacio.peinador@gmail.com](mailto:joseignacio.peinador@gmail.com)  
