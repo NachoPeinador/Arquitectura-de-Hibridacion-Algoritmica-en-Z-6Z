@@ -43,7 +43,8 @@ El algoritmo ha sido validado sometiéndolo a una prueba de estrés computaciona
     * `Isomorfismo_DSP.tex`: Archivo principal del artículo. 
 * **`Notebooks/`**: Notebooks de Jupyter/Colab con la validación computacional.
     * [Laboratorio_Modular_pi](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Laboratorio_Modular_pi.ipynb): Todo el proceso experimental, errores y aciertos.
-    * [VALIDACION_EXAESCALA_EM_PI](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/VALIDACION_EXAESCALA_EM_PI.ipynb): Reproduce los experimentos clave citados en el manuscrito para verificar:
+    * [VALIDACION_EXAESCALA_EM_PI](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/VALIDACION_EXAESCALA_EM_PI.ipynb): Reproduce los experimentos clave citados en el manuscrito.
+    * `zetazeros.txt`: archivo con 10000 ceros de Riemann descargado de  
 
          -   Fundamento Teórico: ¿Es válida la descomposición para funciones trigonométricas?
          -   Isomorfismo DSP: ¿Se comporta la aritmética modular como un banco de filtros polifase?
