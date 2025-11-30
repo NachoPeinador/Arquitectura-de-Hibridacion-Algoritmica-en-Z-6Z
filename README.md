@@ -18,7 +18,7 @@ Este repositorio aloja la **implementación de referencia** y los resultados exp
 
 Basado en el marco teórico del [Espectro Modular](https://doi.org/10.5281/zenodo.17680024), este proyecto transforma la serie de Chudnovsky en un sistema de **6 canales polifase independientes**. La arquitectura resultante, denominada **"Shared-Nothing Stride-6"**, elimina las condiciones de carrera y permite una paralelización lineal sin bloqueos de memoria.
 
-![Arquitectura Hex-Helix](img/arquitectura_helix_3d.png)
+![Arquitectura Hex-Helix](imges/arquitectura_helix_3d.png)
 *> Visualización del Espacio de Fase 'Hex-Helix': 6 hilos de ejecución aislados procesando la serie en paralelo.*
 
 ---
