@@ -30,7 +30,7 @@ El algoritmo ha sido validado sometiéndolo a una prueba de estrés computaciona
 | Métrica | Resultado Validado |
 | :--- | :--- |
 | **Objetivo** | **100,000,000 (Cien Millones) de Dígitos** |
-| **Tiempo Total** | 1194.32 s (~19.9 min) |
+| **Tiempo Total** | 652.91 s (~10.5 min) |
 | **Speedup (2 Cores)** | **1.90x** (Eficiencia paralela del 95%) |
 | **Gestión de RAM** | Sin fugas (*Leak-free*) gracias al aislamiento de canales |
 | **Integridad** | Verificada contra *y-cruncher* (bit-exact) |
