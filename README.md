@@ -41,7 +41,7 @@ El algoritmo ha sido validado sometiéndolo a una prueba de estrés computaciona
 
 * **`Paper/`**: Contiene el manuscrito científico en formato PDF y los archivos fuente LaTeX.
     * `Isomorfismo_DSP.tex`: Archivo principal del artículo. 
-* **`Notebooks/`**: Notebooks de Jupyter/Colab con la validación computacional.
+* **`Notebooks/`**: Notebooks de Jupyter/Colab con la validación computacional y los experimentos de laboratorio.
     * [Laboratorio_Modular_pi](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Laboratorio_Modular_pi.ipynb): Todo el proceso experimental, errores y aciertos.
     * [VALIDACION_EXAESCALA_EM_PI](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/VALIDACION_EXAESCALA_EM_PI.ipynb): Reproduce los experimentos clave citados en el manuscrito.
     * `zetazeros.txt`: archivo con 10000 ceros de Riemann descargado de https://www.lmfdb.org/zeros/zeta/
@@ -52,7 +52,7 @@ El algoritmo ha sido validado sometiéndolo a una prueba de estrés computaciona
               -    ### 🚀The 100M Barrier Run.
          -   Hipótesis de Riemann: ¿Muestra el filtro modular "rigidez espectral" en los ceros de la función Zeta?.
            
-* **`Docs/`**: Documentos para la divulgación científica de los hallazgos.
+* **`Images/`**: Imágenes generadas por los Notebooks.
     
 ---
 
