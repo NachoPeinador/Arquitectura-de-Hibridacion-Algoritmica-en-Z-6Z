@@ -42,7 +42,7 @@ El algoritmo ha sido validado sometiéndolo a una prueba de estrés computaciona
 * **`Paper/`**: Contiene el manuscrito científico en formato PDF y los archivos fuente LaTeX.
     * `Isomorfismo_DSP.tex`: Archivo principal del artículo. 
 * **`Notebooks/`**: Notebooks de Jupyter/Colab con la validación computacional.
-    * `Laboratorio_Modular_pi.ipynb`: Todo el proceso experimental, errores y aciertos. .[Abrir cuaderno](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Laboratorio_Modular_pi.ipynb)
+    * `[Laboratorio_Modular_pi](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Laboratorio_Modular_pi.ipynb)`: Todo el proceso experimental, errores y aciertos.
     * `VALIDACION_EXAESCALA_EM_PI.ipynb`: Este entorno reproduce los experimentos clave citados en el manuscrito para verificar:[Abrir cuaderno](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/VALIDACION_EXAESCALA_EM_PI.ipynb)
 
          -   Fundamento Teórico: ¿Es válida la descomposición para funciones trigonométricas?
