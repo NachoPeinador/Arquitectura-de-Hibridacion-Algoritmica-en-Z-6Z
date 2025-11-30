@@ -43,15 +43,17 @@ El algoritmo ha sido validado sometiéndolo a una prueba de estrés computaciona
     * `Isomorfismo_DSP.pdf`: Archivo principal del artículo. [Isomorfismo_DSP](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Paper/Isomorfismo_DSP.pdf)
     * `Isomorfismo_DSP.tex`: Archivo fuente Latex. 
 * **`Notebooks/`**: Notebooks de Jupyter/Colab con la validación computacional y los experimentos de laboratorio.
-    * [Laboratorio_Modular_pi](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Laboratorio_Modular_pi.ipynb): Todo el proceso experimental, errores y aciertos.
-    * [VALIDACION_EXAESCALA_EM_PI](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/VALIDACION_EXAESCALA_EM_PI.ipynb): Reproduce los experimentos clave citados en el manuscrito.
-    * `zetazeros.txt`: archivo con 10000 ceros de Riemann descargado de https://www.lmfdb.org/zeros/zeta/
+    
+    * [VALIDACION_EXAESCALA_EM_PI](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/VALIDACION_EXAESCALA_EM_PI.ipynb):
+    *  Reproduce los experimentos clave citados en el manuscrito:    
 
          -   Fundamento Teórico: ¿Es válida la descomposición para funciones trigonométricas?
          -   Isomorfismo DSP: ¿Se comporta la aritmética modular como un banco de filtros polifase?
          -   Algoritmo Stride-6: ¿Es capaz la arquitectura de calcular con precisión arbitraria paralelizada?.
               -    ### 🚀The 100M Barrier Run.
          -   Hipótesis de Riemann: ¿Muestra el filtro modular "rigidez espectral" en los ceros de la función Zeta?.
+           
+   * `zetazeros.txt`: archivo con 10000 ceros de Riemann descargado de https://www.lmfdb.org/zeros/zeta/
            
 * **`Images/`**: Imágenes generadas por los Notebooks.
     
