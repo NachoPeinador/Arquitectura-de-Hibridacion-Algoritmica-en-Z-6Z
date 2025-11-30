@@ -37,17 +37,21 @@ El algoritmo ha sido validado sometiéndolo a una prueba de estrés computaciona
 
 ---
 
-## 📂 Estructura del Repositorio
+## 📂 Estructura del Repositorio y ## 💻 Reproducibilidad
 
-* **`src/`**: Código fuente del motor de cálculo.
-    * `pi_modular_engine.py`: Implementación pura en Python + `gmpy2` del algoritmo Stride-6.
-    * `verification.py`: Scripts de validación de checksums y análisis de sufijos.
-* **`paper/`**: Manuscrito científico unificado (LaTeX/PDF).
-    * **"El Espectro Modular de $\pi$: Unificación Teórica y Validación a Exaescala"**.
-* **`notebooks/`**: Entornos reproducibles.
-    * `The_100M_Barrier_Run.ipynb`: Notebook configurado para replicar la hazaña en Google Colab.
-* **`data/`**: Logs de ejecución y benchmarks (los archivos de 100MB de dígitos no se incluyen por tamaño, pero sí sus hashes SHA-256).
+* **`Paper/`**: Contiene el manuscrito científico en formato PDF y los archivos fuente LaTeX.
+    * `Isomorfismo_DSP.tex`: Archivo principal del artículo. 
+* **`Notebooks/`**: Notebooks de Jupyter/Colab con la validación computacional.
+    * `Laboratorio_Modular_pi.ipynb`: Todo el proceso experimental, errores y aciertos. .[Abrir Notebook](Notebooks/Laboratorio_Modular_pi.ipynb)
+    * `VALIDACION_EXAESCALA_EM_PI.ipynb`: Este entorno reproduce los experimentos clave citados en el manuscrito para verificar:  [Abrir Notebook](Notebooks/VALIDACION_EXAESCALA_EM_PI.ipynb)
 
+         -   Fundamento Teórico: ¿Es válida la descomposición para funciones trigonométricas?
+         -   Isomorfismo DSP: ¿Se comporta la aritmética modular como un banco de filtros polifase?
+         -   Algoritmo Stride-6: ¿Es capaz la arquitectura de calcular con precisión arbitraria paralelizada?
+         -   Hipótesis de Riemann: ¿Muestra el filtro modular "rigidez espectral" en los ceros de la función Zeta?.
+           
+* **`Docs/`**: Documentos para la divulgación científica de los hallazgos.
+    
 ---
 
 ## ⚙️ Innovación Técnica
@@ -79,20 +83,6 @@ El código fuente y la documentación están disponibles bajo la licencia **Poly
 
 > 💼 **Para obtener una Licencia Comercial**, contacte con el autor: [joseignacio.peinador@gmail.com](mailto:joseignacio.peinador@gmail.com)
 
----
-
-## 💻 Reproducibilidad
-
-Para replicar el cálculo de 100 Millones de dígitos:
-
-1.  Clone el repositorio.
-2.  Instale las dependencias: `pip install gmpy2 numpy`
-3.  Ejecute el script principal:
-    ```bash
-    python src/pi_modular_engine.py --digits 100000000 --cores 2
-    ```
-
----
 
 ## ✍️ Citación
 
