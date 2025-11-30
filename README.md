@@ -47,7 +47,8 @@ El algoritmo ha sido validado sometiéndolo a una prueba de estrés computaciona
 
          -   Fundamento Teórico: ¿Es válida la descomposición para funciones trigonométricas?
          -   Isomorfismo DSP: ¿Se comporta la aritmética modular como un banco de filtros polifase?
-         -   Algoritmo Stride-6: ¿Es capaz la arquitectura de calcular con precisión arbitraria paralelizada?: The 100M Barrier Run.
+         -   Algoritmo Stride-6: ¿Es capaz la arquitectura de calcular con precisión arbitraria paralelizada?.
+              -    # 🚀The 100M Barrier Run.
          -   Hipótesis de Riemann: ¿Muestra el filtro modular "rigidez espectral" en los ceros de la función Zeta?.
            
 * **`Docs/`**: Documentos para la divulgación científica de los hallazgos.
