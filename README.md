@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Platform](https://img.shields.io/badge/Platform-Google_Colab_%7C_Linux-orange.svg)](pi_modular_100m.ipynb)
 [![Status](https://img.shields.io/badge/Status-Validated_(10^8_Digits)-success.svg)]()
-[![DOI](https://img.shields.io/badge/DOI-Preprint_Pending-lightgrey)](https://zenodo.org/)
+[![DOI](https://img.shields.io/badge/DOI-Preprint_Pending-lightgrey)](https://doi.org/10.5281/zenodo.17768719)
 
 **Autor:** José Ignacio Peinador Sala  
 **Contacto:** [joseignacio.peinador@gmail.com](mailto:joseignacio.peinador@gmail.com)  
@@ -94,14 +94,7 @@ El código fuente y la documentación están disponibles bajo la licencia **Poly
 Si utiliza este software o los hallazgos teóricos en su investigación, por favor cite el artículo unificado:
 
 ```bibtex
-@article{PeinadorSala2025_Exascale,
-  author = {Peinador Sala, José Ignacio},
-  title = {El Espectro Modular de $\pi$: Unificación Teórica, Isomorfismo DSP y Validación a Exaescala},
-  year = {2025},
-  publisher = {Zenodo},
-  version = {v1.0},
-  doi = {10.5281/zenodo.XXXXXXX}
-}
+Peinador Sala, J. I. (2025). The Modular Spectrum of π: Theoretical Unification, DSP Isomorphism, and Exascale Validation (Versión v1). Zenodo. https://doi.org/10.5281/zenodo.17768719
 ```
 ---
 
