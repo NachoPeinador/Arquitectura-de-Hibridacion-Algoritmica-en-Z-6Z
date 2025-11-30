@@ -40,7 +40,8 @@ El algoritmo ha sido validado sometiéndolo a una prueba de estrés computaciona
 ## 📂 Estructura del Repositorio y 💻 Reproducibilidad
 
 * **`Paper/`**: Contiene el manuscrito científico en formato PDF y los archivos fuente LaTeX.
-    * `Isomorfismo_DSP.tex`: Archivo principal del artículo. 
+    * `Isomorfismo_DSP.pdf`: Archivo principal del artículo. [Isomorfismo_DSP](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Paper/Isomorfismo_DSP.pdf)
+    * `Isomorfismo_DSP.tex`: Archivo fuente Latex. 
 * **`Notebooks/`**: Notebooks de Jupyter/Colab con la validación computacional y los experimentos de laboratorio.
     * [Laboratorio_Modular_pi](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Laboratorio_Modular_pi.ipynb): Todo el proceso experimental, errores y aciertos.
     * [VALIDACION_EXAESCALA_EM_PI](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/VALIDACION_EXAESCALA_EM_PI.ipynb): Reproduce los experimentos clave citados en el manuscrito.
