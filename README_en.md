@@ -66,46 +66,6 @@ The algorithm has been validated through extreme computational stress testing on
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-├── 📁 Paper/                          # Scientific manuscript
-│   ├── Isomorfismo_DSP.pdf           # Main paper (PDF)
-│   ├── Isomorfismo_DSP.tex           # LaTeX source
-│   ├── Isomorfismo_DSP.bib           # Bibliography
-│   └── images/                       # Paper figures
-│
-├── 📁 Notebooks/                     # Interactive research notebooks
-│   ├── VALIDACION_EXAESCALA_EM_PI.ipynb      # Main validation notebook
-│   ├── DSP_Isomorphism_Analysis.ipynb        # Signal processing proofs
-│   ├── Riemann_Zeros_Analysis.ipynb          # Spectral rigidity tests
-│   └── data/                         # Generated datasets
-│       └── zetazeros.txt             # 10,000 Riemann zeros (LMFDB)
-│
-├── 📁 src/                           # Python package
-│   ├── modular_pi/                   # Core implementation
-│   │   ├── __init__.py
-│   │   ├── stride6_engine.py        # Main computation engine
-│   │   ├── polyphase_decomposition.py
-│   │   ├── modular_channels.py
-│   │   └── validation.py
-│   ├── tests/                        # Unit tests
-│   └── requirements.txt              # Dependencies
-│
-├── 📁 Images/                        # Generated visualizations
-├── 📁 Results/                       # Experimental outputs
-│   ├── 100M_digits.txt              # Validated π digits
-│   └── benchmark_results.json       # Performance metrics
-│
-├── 📁 docs/                          # Documentation
-├── LICENSE                           # Non-commercial license
-├── LICENSE-COMMERCIAL                # Commercial license terms
-├── CITATION.cff                      # Citation metadata
-└── README.md                         # This file
-```
-
----
-
 ## 🚀 Quick Start
 
 ### 1. Online Exploration (Recommended)
@@ -167,29 +127,6 @@ The architecture leverages channel 3 as a natural "stability attractor", minimiz
 
 ---
 
-## 📊 Experimental Validation
-
-### Computational Stress Test
-```python
-from src.modular_pi.stride6_engine import ModularPiCalculator
-
-calculator = ModularPiCalculator(parallel=True)
-digits, time_elapsed = calculator.compute_pi(digits=100_000_000)
-print(f"Computed {len(digits)} digits in {time_elapsed:.2f}s")
-print(f"Throughput: {len(digits)/time_elapsed:.0f} digits/s")
-```
-
-### Spectral Rigidity Analysis
-```python
-from src.modular_pi.riemann_analysis import analyze_zeros_modular_distribution
-
-results = analyze_zeros_modular_distribution('Notebooks/data/zetazeros.txt')
-print(f"χ² test p-value: {results['p_value']:.3f}")
-print(f"Distribution uniformity: {results['uniformity']:.1%}")
-```
-
----
-
 ## 📈 Future Work & Roadmap
 
 ### Short Term (Q1 2025)
@@ -199,7 +136,7 @@ print(f"Distribution uniformity: {results['uniformity']:.1%}")
 
 ### Medium Term (Q2-Q3 2025)
 - [ ] FPGA implementation (Verilog/VHDL)
-- [ ] Extension to other constants ($e$, $\gamma$, $\zeta(3)$)
+- [ ] Extension to other constants $e$, $\gamma$, $\zeta(3)$
 - [ ] Educational module for computational number theory
 
 ### Long Term (2025+)
@@ -209,34 +146,11 @@ print(f"Distribution uniformity: {results['uniformity']:.1%}")
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions from researchers, engineers, and mathematicians! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Areas Needing Expertise
-- **DSP Theory**: Further optimization of polyphase implementations
-- **HPC**: Distributed memory parallelization
-- **Hardware**: FPGA/ASIC design optimization
-- **Mathematics**: Extension to other modular structures
-
----
-
 ## 📚 Citation
 
 If you use this software or theoretical findings in your research, please cite:
 
-### Paper Citation
-```bibtex
-@article{peinador2025modularspectrum,
-  title={The Modular Spectrum of π: Theoretical Unification, DSP Isomorphism, and Exascale Validation},
-  author={Peinador Sala, José Ignacio},
-  journal={arXiv preprint arXiv:2502.xxxxx},
-  year={2025},
-  doi={10.5281/zenodo.17768719}
-}
-```
-
-### Software Citation
+### Citation
 ```bibtex
 @software{peinador2025modularpi,
   author = {Peinador Sala, José Ignacio},
@@ -282,14 +196,6 @@ This work was made possible by:
 > *"Simplicity is the ultimate sophistication."* — **Leonardo da Vinci**
 
 This research was conducted independently, without institutional or corporate funding, demonstrating that passion and rigorous methodology can advance scientific frontiers through open collaboration.
-
----
-
-**Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z&type=Date)](https://star-history.com/#NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z&Date)
-
-*Join our growing community of researchers and engineers!*
 
 ---
 
