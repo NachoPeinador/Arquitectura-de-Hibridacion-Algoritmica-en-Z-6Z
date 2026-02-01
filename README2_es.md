@@ -1,9 +1,9 @@
 # El Espectro Modular de $\pi$: Hibridación Algorítmica en $\mathbb{Z}/6\mathbb{Z}$
 
-
+[![Read in Spanish](https://img.shields.io/badge/Lang-Read%20in%20Spanish-red?style=flat&logoColor=white&color=red)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/README_ES.md)
 [![Licencia: PolyForm No Comercial](https://img.shields.io/badge/Licencia-PolyForm_No_Comercial_1.0.0-rojo.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-azul.svg)](https://www.python.org/downloads/)
-[![Plataforma](https://img.shields.io/badge/Plataforma-Google_Colab_%7C_Linux-naranja.svg)](pi_modular_100m.ipynb)
+[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Papers/Isomorfismo_DSP.pdf)
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17768719-azul)](https://doi.org/10.5281/zenodo.17768719)
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Validation_Exaescala_PI.ipynb)
 
