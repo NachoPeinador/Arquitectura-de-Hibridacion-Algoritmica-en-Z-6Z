@@ -1,12 +1,12 @@
 # El Espectro Modular de $\pi$: Hibridación Algorítmica en $\mathbb{Z}/6\mathbb{Z}$
 
+
 [![Licencia: PolyForm No Comercial](https://img.shields.io/badge/Licencia-PolyForm_No_Comercial_1.0.0-rojo.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-azul.svg)](https://www.python.org/downloads/)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Google_Colab_%7C_Linux-naranja.svg)](pi_modular_100m.ipynb)
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17768719-azul)](https://doi.org/10.5281/zenodo.17768719)
-[![arXiv](https://img.shields.io/badge/arXiv-2502.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2502.xxxxx)
-[![Tests](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/actions/workflows/tests.yml/badge.svg)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/actions/workflows/tests.yml)
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/VALIDACION_EXAESCALA_EM_PI.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Validation_Exaescala_PI.ipynb)
+
 
 **Autor:** José Ignacio Peinador Sala  
 **Contacto:** [joseignacio.peinador@gmail.com](mailto:joseignacio.peinador@gmail.com)  
