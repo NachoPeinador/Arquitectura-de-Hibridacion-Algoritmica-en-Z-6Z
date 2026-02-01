@@ -179,25 +179,13 @@ La arquitectura aprovecha:
 
 Si este trabajo contribuye a tu investigación, por favor cita:
 
-### Manuscrito Principal
+### Manuscrito Principal e Implementación de Software
 ```bibtex
-@article{peinador2025modularspectrum,
+@article{peinador2025spectrum,
   title={The Modular Spectrum of π: Theoretical Unification, DSP Isomorphism, and Exascale Validation},
   author={Peinador Sala, José Ignacio},
-  journal={arXiv preprint},
+  journal={Zenodo},
   year={2025},
-  doi={10.48550/arXiv.2502.xxxxx},
-  url={https://arxiv.org/abs/2502.xxxxx}
-}
-```
-
-### Implementación de Software
-```bibtex
-@software{peinador2025modularpi,
-  author = {Peinador Sala, José Ignacio},
-  title = {Modular π: Algorithmic Hybridization Architecture in Z/6Z},
-  year = {2025},
-  publisher = {Zenodo},
   doi = {10.5281/zenodo.17768719},
   url = {https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z}
 }
