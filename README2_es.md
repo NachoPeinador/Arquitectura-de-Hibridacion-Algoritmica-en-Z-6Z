@@ -39,8 +39,8 @@ Este repositorio aloja la **implementación de referencia** y la validación exp
 
 La innovación central es la **arquitectura Hybrid Stride-6**, un diseño *Shared-Nothing* que transforma la serie de Chudnovsky para π en 6 canales polifase independientes módulo $\mathbb{Z}/6\mathbb{Z}$. Esta descomposición no es solo astucia computacional - está fundamentada en un **isomorfismo matemático formal** con la descomposición polifase de Procesamiento Digital de Señales (DSP), validado por evidencia experimental rigurosa.
 
-![Arquitectura Hex-Helix](Images/arquitectura_helix_3d.png)
-*Visualización del Espacio de Fases 'Hex-Helix': 6 hilos de ejecución aislados procesando la serie en paralelo.*
+![Arquitectura Hex-Helix](Images/Validacion_exaescala.png)
+*Resumen visual: Hexágono = descomposición módulo 6 (Z/6Z). Izquierda: Isomorfismo con procesamiento de señales (DSP). Derecha: Arquitectura paralela (6 núcleos, 95% eficiencia). Abajo: Ceros de Riemann distribuidos uniformemente (p≈0.98). Canal r=3 como punto de estabilidad.*
 
 ---
 
