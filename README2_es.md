@@ -205,11 +205,13 @@ Si este trabajo contribuye a tu investigación, por favor cita:
 
 ### Trabajo Teórico Anterior
 ```bibtex
-@article{peinador2024modularfoundations,
-  title={The Modular Spectrum of π: From Prime Channel Structure to Elliptic Supercongruences},
-  author={Peinador Sala, José Ignacio},
-  year={2024},
-  doi={10.5281/zenodo.17680024}
+@misc{peinador2025modular,
+  author = {Peinador Sala, José Ignacio},
+  title = {The Modular Spectrum of \pi: From Prime Channel Structure to Elliptic Supercongruences},
+  year = {2025},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.17680024},
+  url = {[https://doi.org/10.5281/zenodo.18417862](https://doi.org/10.5281/zenodo.18417862)}
 }
 ```
 
