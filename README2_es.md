@@ -1,9 +1,9 @@
 # El Espectro Modular de $\pi$: Hibridación Algorítmica en $\mathbb{Z}/6\mathbb{Z}$
 
-[![Read in Spanish](https://img.shields.io/badge/Lang-Read%20in%20Spanish-red?style=flat&logoColor=white&color=red)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/README_ES.md)
+[![Read in English](https://img.shields.io/badge/Lang-Read%20in%20English-blue?style=flat&logoColor=white)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/README_ES.md)
 [![Licencia: PolyForm No Comercial](https://img.shields.io/badge/Licencia-PolyForm_No_Comercial_1.0.0-rojo.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-azul.svg)](https://www.python.org/downloads/)
-[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Papers/Isomorfismo_DSP.pdf)
+[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Papers/Isomorfismo_DSP_v2.pdf)
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17768719-azul)](https://doi.org/10.5281/zenodo.17768719)
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Validation_Exaescala_PI.ipynb)
 
@@ -11,7 +11,6 @@
 **Autor:** José Ignacio Peinador Sala  
 **Contacto:** [joseignacio.peinador@gmail.com](mailto:joseignacio.peinador@gmail.com)  
 **ORCID:** [0009-0008-1822-3452](https://orcid.org/0009-0008-1822-3452)  
-**arXiv:** [2502.xxxxx](https://arxiv.org/abs/2502.xxxxx)
 
 ---
 
@@ -117,7 +116,7 @@ Aplicando el filtro modular a ceros de Riemann revela:
 ## 🚀 Inicio Rápido & Reproducción
 
 ### 1. Experimento Online Instantáneo (Recomendado)
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/VALIDACION_EXAESCALA_EM_PI.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Validation_Exaescala_PI.ipynb)
 
 ¡Haz clic arriba para ejecutar la validación experimental completa en Google Colab - sin instalación requerida!
 
@@ -246,8 +245,6 @@ Damos la bienvenida a:
 - **Colaboraciones de investigación** en extensiones teóricas
 - **Desarrollo de material educativo**
 - **Optimizaciones de rendimiento** y mejoras de portabilidad
-
-Por favor revisa nuestras [Guías de Contribución](CONTRIBUTING.md) antes de enviar pull requests.
 
 ---
 
