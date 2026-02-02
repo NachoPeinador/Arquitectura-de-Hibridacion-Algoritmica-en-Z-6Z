@@ -1,17 +1,15 @@
 # The Modular Spectrum of $\pi$: Algorithmic Hybridization in $\mathbb{Z}/6\mathbb{Z}$
 
+[![Read in Spanish](https://img.shields.io/badge/Lang-Leer%20en%20Español-red?style=flat&logoColor=white&color=B31B1B)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/README_es.md)
 [![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm_Noncommercial_1.0.0-red.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Platform](https://img.shields.io/badge/Platform-Google_Colab_%7C_Linux-orange.svg)](pi_modular_100m.ipynb)
+[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Papers/DSP_Isomorphism_v2.pdf)
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17768719-blue)](https://doi.org/10.5281/zenodo.17768719)
-[![arXiv](https://img.shields.io/badge/arXiv-2502.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2502.xxxxx)
-[![Tests](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/actions/workflows/tests.yml/badge.svg)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/actions/workflows/tests.yml)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/VALIDACION_EXAESCALA_EM_PI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Exascale_Validation_PI.ipynb)
 
 **Author:** José Ignacio Peinador Sala  
 **Contact:** [joseignacio.peinador@gmail.com](mailto:joseignacio.peinador@gmail.com)  
 **ORCID:** [0009-0008-1822-3452](https://orcid.org/0009-0008-1822-3452)  
-**arXiv:** [2502.xxxxx](https://arxiv.org/abs/2502.xxxxx)
 
 ---
 
@@ -39,8 +37,8 @@ This repository hosts the **reference implementation** and experimental validati
 
 The core innovation is the **Hybrid Stride-6 architecture**, a *Shared-Nothing* design that transforms the Chudnovsky series for π into 6 independent polyphase channels modulo $\mathbb{Z}/6\mathbb{Z}$. This decomposition isn't merely computational cleverness - it's grounded in a **formal mathematical isomorphism** with Digital Signal Processing (DSP) polyphase decomposition, validated by rigorous experimental evidence.
 
-![Hex-Helix Architecture](Images/arquitectura_helix_3d.png)
-*Visualization of the 'Hex-Helix' Phase Space: 6 isolated execution threads processing the series in parallel.*
+![Hex-Helix Architecture](Images/Validacion_exaescala.png)
+*Visual summary: Hexagon = decomposition modulo 6 (Z/6Z). Left: Isomorphism with digital signal processing (DSP). Right: Parallel architecture (6 cores, 95% efficiency). Bottom: Uniformly distributed Riemann zeros (p≈0.98). Channel r=3 as stability point.*
 
 ---
 
@@ -117,7 +115,7 @@ Applying the modular filter to Riemann zeros reveals:
 ## 🚀 Quick Start & Reproduction
 
 ### 1. Instant Online Experiment (Recommended)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/VALIDACION_EXAESCALA_EM_PI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Exascale_Validation_PI.ipynb)
 
 Click above to run the complete experimental validation in Google Colab - no installation required!
 
@@ -129,14 +127,6 @@ The main notebook provides step-by-step reproduction of all manuscript claims:
 3. **Stride-6 Algorithm**: Test parallel computation with arbitrary precision
 4. **Riemann Zeros Analysis**: Confirm uniform distribution modulo 6
 5. **Performance Benchmark**: Reproduce 100M digit calculation
-
-### 3. Local Installation
-```bash
-git clone https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z.git
-cd Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z
-pip install -r requirements.txt
-python -m pytest tests/  # Run validation tests
-```
 
 ---
 
@@ -179,25 +169,13 @@ The architecture leverages:
 
 If this work contributes to your research, please cite:
 
-### Primary Manuscript
+### Primary Manuscript and Software Implementation
 ```bibtex
-@article{peinador2025modularspectrum,
+@article{peinador2025spectrum,
   title={The Modular Spectrum of π: Theoretical Unification, DSP Isomorphism, and Exascale Validation},
   author={Peinador Sala, José Ignacio},
-  journal={arXiv preprint},
+  journal={Zenodo},
   year={2025},
-  doi={10.48550/arXiv.2502.xxxxx},
-  url={https://arxiv.org/abs/2502.xxxxx}
-}
-```
-
-### Software Implementation
-```bibtex
-@software{peinador2025modularpi,
-  author = {Peinador Sala, José Ignacio},
-  title = {Modular π: Algorithmic Hybridization Architecture in Z/6Z},
-  year = {2025},
-  publisher = {Zenodo},
   doi = {10.5281/zenodo.17768719},
   url = {https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z}
 }
@@ -205,12 +183,13 @@ If this work contributes to your research, please cite:
 
 ### Earlier Theoretical Work
 ```bibtex
-@article{peinador2024modularfoundations,
-  title={The Modular Spectrum of π: From Prime Channel Structure to Elliptic Supercongruences},
-  author={Peinador Sala, José Ignacio},
-  year={2024},
-  doi={10.5281/zenodo.17680024}
-}
+@misc{peinador2025modular,
+  author = {Peinador Sala, José Ignacio},
+  title = {The Modular Spectrum of \pi: From Prime Channel Structure to Elliptic Supercongruences},
+  year = {2025},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.17680024},
+  url = {[https://doi.org/10.5281/zenodo.18417862](https://doi.org/10.5281/zenodo.18417862)}
 ```
 
 ---
@@ -264,8 +243,6 @@ We welcome:
 - **Research collaborations** on theoretical extensions
 - **Educational material** development
 - **Performance optimizations** and portability improvements
-
-Please review our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
 
 ---
 
@@ -321,7 +298,7 @@ We foster an inclusive, respectful environment for scientific discourse. Please:
 
 ---
 
-*Last updated: February 2025 | Version: 3.0 | Status: Actively Maintained & Research-Ongoing*
+*Last updated: February 2026 | Version: 2.0 | Status: Actively Maintained & Research-Ongoing*
 
 ---
 
