@@ -300,7 +300,7 @@ Fomentamos un ambiente inclusivo y respetuoso para discurso científico. Por fav
 
 ---
 
-*Última actualización: Febrero 2025 | Versión: 3.0 | Estado: Activamente Mantenido & Investigación en Curso*
+*Última actualización: Febrero 2026 | Versión: 2.0 | Estado: Activamente Mantenido & Investigación en Curso*
 
 ---
 
