@@ -4,7 +4,7 @@
 [![Licencia: PolyForm No Comercial](https://img.shields.io/badge/Licencia-PolyForm_No_Comercial_1.0.0-rojo.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-azul.svg)](https://www.python.org/downloads/)
 [![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Papers/Isomorfismo_DSP_v2.pdf)
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17768719-azul)](https://doi.org/10.5281/zenodo.17768719)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17768719-blue)](https://doi.org/10.5281/zenodo.18455954)
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Validation_Exaescala_PI.ipynb)
 
 
@@ -177,7 +177,7 @@ Si este trabajo contribuye a tu investigación, por favor cita:
   author={Peinador Sala, José Ignacio},
   journal={Zenodo},
   year={2025},
-  doi = {10.5281/zenodo.17768719},
+  doi = {10.5281/zenodo.18455954},
   url = {https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z}
 }
 ```
@@ -189,9 +189,8 @@ Si este trabajo contribuye a tu investigación, por favor cita:
   title = {The Modular Spectrum of \pi: From Prime Channel Structure to Elliptic Supercongruences},
   year = {2025},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.17680024},
+  doi = {10.5281/zenodo.18417862},
   url = {[https://doi.org/10.5281/zenodo.18417862](https://doi.org/10.5281/zenodo.18417862)}
-}
 ```
 
 ---
