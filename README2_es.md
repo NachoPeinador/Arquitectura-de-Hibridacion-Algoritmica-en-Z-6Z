@@ -130,14 +130,6 @@ El notebook principal provee reproducción paso a paso de todas las afirmaciones
 4. **Análisis de Ceros de Riemann**: Confirmar distribución uniforme módulo 6
 5. **Benchmark de Rendimiento**: Reproducir cálculo de 100M dígitos
 
-### 3. Instalación Local
-```bash
-git clone https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z.git
-cd Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z
-pip install -r requirements.txt
-python -m pytest tests/  # Ejecutar tests de validación
-```
-
 ---
 
 ## ⚙️ Detalles de Implementación Técnica
