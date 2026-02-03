@@ -177,7 +177,7 @@ This high-performance architecture is not just an engineering feat; it is the ph
 
 While this repository focuses on exascale computation and DSP isomorphisms, the mathematical proof that π can be decomposed into prime channels (6k ± 1) was established in my previous research.
 
-### [👉 Explore the Theoretical Framework: Espectro-Modular-Pi](https://www.google.com/search?q=https://github.com/NachoPeinador/Espectro-Modular-Pi)
+### [👉 Explore the Theoretical Framework: Espectro-Modular-Pi](https://github.com/NachoPeinador/Espectro-Modular-Pi/blob/main/README.md)
 
 **What you will find there:**
 
