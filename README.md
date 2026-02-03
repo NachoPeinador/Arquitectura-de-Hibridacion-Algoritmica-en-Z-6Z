@@ -165,6 +165,29 @@ The architecture leverages:
 
 ---
 
+Esta sección es el "puente inverso". Aquí el objetivo es explicarle al usuario que, aunque está viendo una implementación de ingeniería de alto rendimiento, todo nace de un descubrimiento teórico profundo sobre la estructura de .
+
+Aquí tienes la propuesta para integrar en el README de tu repositorio de **Hibridación Algorítmica**:
+
+---
+
+## 🏛️ Theoretical Foundations: The Modular Spectrum
+
+This high-performance architecture is not just an engineering feat; it is the physical implementation of the **Modular Spectrum Theory**.
+
+While this repository focuses on exascale computation and DSP isomorphisms, the mathematical proof that π can be decomposed into prime channels (6k ± 1) was established in my previous research.
+
+### [👉 Explore the Theoretical Framework: Espectro-Modular-Pi](https://www.google.com/search?q=https://github.com/NachoPeinador/Espectro-Modular-Pi)
+
+**What you will find there:**
+
+* **The Prime Substrate:** The formal derivation of π using modular filters in ℤ/6ℤ.
+* **Elliptic Acceleration:** How the theory connects simple Leibniz-type series with Ramanujan-Sato class invariants.
+* **Supercongruences:** Numerical evidence of the "Inert Prime Anomaly" at p = 17.
+* **Educational Suite:** Interactive notebooks designed to teach the transition from basic arithmetic to frontier mathematics.
+
+---
+
 ## 📚 Citation & Academic Use
 
 If this work contributes to your research, please cite:
