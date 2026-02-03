@@ -166,6 +166,29 @@ La arquitectura aprovecha:
 
 ---
 
+Aquí tienes la traducción al español, manteniendo el tono académico y técnico para el README de tu repositorio de arquitectura:
+
+---
+
+## 🏛️ Fundamentos Teóricos: El Espectro Modular
+
+Esta arquitectura de alto rendimiento no es solo una proeza de ingeniería; es la implementación física de la **Teoría del Espectro Modular**.
+
+Mientras que este repositorio se centra en la computación a exaescala y los isomorfismos con DSP, la prueba matemática de que π puede descomponerse en canales primos (6k ± 1) fue establecida en mi investigación previa.
+
+### [👉 Explorar el Marco Teórico: Espectro-Modular-Pi](https://github.com/NachoPeinador/Espectro-Modular-Pi/blob/main/README_es.md)
+
+**Lo que encontrarás allí:**
+
+* **El Substrato Primo:** La derivación formal de  utilizando filtros modulares en ℤ/6ℤ.
+* **Aceleración Elíptica:** Cómo la teoría conecta series simples de tipo Leibniz con invariantes de clase de Ramanujan-Sato.
+* **Supercongruencias:** Evidencia numérica de la "Anomalía del Primo Inerte" en p = 17.
+* **Suite Educativa:** Notebooks interactivos diseñados para enseñar la transición desde la aritmética básica hasta la matemática de frontera.
+
+---
+
+¿Te gustaría que te ayude a redactar una **licencia de uso** combinada para ambos proyectos o prefieres que revisemos la **bibliografía** para que las citas entre ellos sean consistentes?
+
 ## 📚 Cita & Uso Académico
 
 Si este trabajo contribuye a tu investigación, por favor cita:
