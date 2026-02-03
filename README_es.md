@@ -176,7 +176,7 @@ Esta arquitectura de alto rendimiento no es solo una proeza de ingeniería; es l
 
 Mientras que este repositorio se centra en la computación a exaescala y los isomorfismos con DSP, la prueba matemática de que π puede descomponerse en canales primos (6k ± 1) fue establecida en mi investigación previa.
 
-### [👉 Explorar el Marco Teórico: Espectro-Modular-Pi](https://github.com/NachoPeinador/Espectro-Modular-Pi/blob/main/README_es.md)
+### [👉 Explorar el Marco Teórico: Espectro-Modular-Pi](https://github.com/NachoPeinador/Espectro-Modular-Pi/blob/main/README_ES.md)
 
 **Lo que encontrarás allí:**
 
