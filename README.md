@@ -1,6 +1,6 @@
 # The Modular Spectrum of $\pi$: Algorithmic Hybridization in $\mathbb{Z}/6\mathbb{Z}$
 
-[![Read in Spanish](https://img.shields.io/badge/Lang-Leer%20en%20Español-red?style=flat&logoColor=white&color=B31B1B)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/README_es.md)
+[![Read in Spanish](https://img.shields.io/badge/Lang-Leer%20en%20Español-red?style=flat&logoColor=white&color=B31B1B)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/README_es.md)
 [![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm_Noncommercial_1.0.0-red.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Papers/DSP_Isomorphism_v2.pdf)
@@ -162,12 +162,6 @@ The architecture leverages:
 1. **Channel 3 stability attractor** - aligned with Euler's identity $e^{iπ}=-1$
 2. **Orthogonal decomposition** - zero information loss (verified experimentally)
 3. **Arbitrary precision backend** (gmpy2) with proven numerical stability
-
----
-
-Esta sección es el "puente inverso". Aquí el objetivo es explicarle al usuario que, aunque está viendo una implementación de ingeniería de alto rendimiento, todo nace de un descubrimiento teórico profundo sobre la estructura de .
-
-Aquí tienes la propuesta para integrar en el README de tu repositorio de **Hibridación Algorítmica**:
 
 ---
 
