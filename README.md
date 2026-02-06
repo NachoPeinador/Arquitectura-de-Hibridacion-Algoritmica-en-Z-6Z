@@ -4,7 +4,7 @@
 [![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm_Noncommercial_1.0.0-red.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Papers/DSP_Isomorphism_v2.pdf)
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17768719-blue)](https://doi.org/10.5281/zenodo.18455954)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18455954-blue)](https://doi.org/10.5281/zenodo.18455954)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arquitectura-de-Hibridacion-Algoritmica-en-Z-6Z/blob/main/Notebooks/Exascale_Validation_PI.ipynb)
 
 **Author:** José Ignacio Peinador Sala  
